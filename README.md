@@ -1,6 +1,6 @@
 # Bachelor 2018 - CBS HA(mat.)
 
-Modeller vi programmeret:
+Modeller vi har programmeret:
 
 * mv        - In sample
 * ew (1/N)  - Out of sample
