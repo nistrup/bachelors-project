@@ -1,0 +1,24 @@
+Til '20 Size and Book-to-market Portfolios' skal følgende kolonner bruges:
+
+SMALL LoBM	
+ME1 BM2	
+ME1 BM3	
+ME1 BM4	
+SMALL HiBM	
+ME2 BM1	
+ME2 BM2	
+ME2 BM3	
+ME2 BM4	
+ME2 BM5	
+ME3 BM1	
+ME3 BM2	
+ME3 BM3	
+ME3 BM4	
+ME3 BM5	
+ME4 BM1	
+ME4 BM2	
+ME4 BM3	
+ME4 BM4	
+ME4 BM5
+
+'F-F_Research_Data_Factors' består af Mkt, HML, SMB, RF, RF3 og UMD (Mom)
