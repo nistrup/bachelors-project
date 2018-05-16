@@ -6,7 +6,11 @@ Modeller vi har programmeret:
 
 Data vi har samlet:
 
+#1 - MANGLER
+
 #2 - Ten industry portfolios and the US equity market portfolio
+
+#3 - MANGLER
 
 #4 - SMB and HML portfolios and the US equity market portfolio
 
@@ -15,6 +19,8 @@ Data vi har samlet:
 #6 - Twenty size- and book-to-market portfolios and the MKT, SMB, and HML portfolios
 
 #7 - Twenty size- and book-to-market portfolios and the MKT, SMB, HML, and UMD portfolios
+
+#8 - MANGLER
 
 
 
