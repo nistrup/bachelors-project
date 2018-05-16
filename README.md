@@ -2,14 +2,21 @@
 
 Modeller vi har programmeret:
 
-* mv        - In sample
-* ew (1/N)  - Out of sample
-* mv        - Out of sample
-* min       - Out of sample
+????
 
 Data vi har samlet:
 
-#2 - Ten industry portfolios and the US equity market portfolio (N = 10 + 1)
+#2 - Ten industry portfolios and the US equity market portfolio
+
+#4 - SMB and HML portfolios and the US equity market portfolio
+
+#5 - Twenty size- and book-to-market portfolios and the US equity MKT
+
+#6 - Twenty size- and book-to-market portfolios and the MKT, SMB, and HML portfolios
+
+#7 - Twenty size- and book-to-market portfolios and the MKT, SMB, HML, and UMD portfolios
+
+
 
 
 
