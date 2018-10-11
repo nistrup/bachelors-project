@@ -60,11 +60,13 @@ Optimal combinations of portfolios
 #7 - Twenty size- and book-to-market portfolios and the MKT, SMB, HML, and UMD portfolios
 ```
 
-Teorien bygger på Harry Markowitz moderne portefølje teori som oftest bruges i forbindelse med optimal frontier analyse:
+### Teorien bygger på Harry Markowitz moderne portefølje teori.
 
-![alt text](https://i.imgur.com/M4t78zf.png?1)
+# Sammenligning med DeMiguel, Garlappi og Uppal's resultater:
 
-# Resultater
+![alt text](https://i.imgur.com/gnO3oT3.png)
+
+# Rå resultater
 
 ## Sharpe-værdier:
 
