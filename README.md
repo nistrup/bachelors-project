@@ -54,17 +54,11 @@ Optimal combinations of portfolios
 ```
 
 #1 - Ten sector portfolios of the S&P 500 and the US equity market portfolio
-
 #2 - Ten industry portfolios and the US equity market portfolio
-
 #3 - Eight country indexes and the World Index
-
 #4 - SMB and HML portfolios and the US equity market portfolio
-
 #5 - Twenty size- and book-to-market portfolios and the US equity MKT
-
 #6 - Twenty size- and book-to-market portfolios and the MKT, SMB, and HML portfolios
-
 #7 - Twenty size- and book-to-market portfolios and the MKT, SMB, HML, and UMD portfolios
 
 ```
