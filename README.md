@@ -7,7 +7,7 @@ How Inefficient is the 1/N Portfolio Strategy?" - http://faculty.london.edu/avmi
 
 ## Fremgangsmåde:
 
-![alt text](https://i.imgur.com/30MzHSK.png | width=200)
+<img src="https://i.imgur.com/30MzHSK.png" width="200">
 
 ## Modeller vi har programmeret:
 
