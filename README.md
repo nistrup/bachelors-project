@@ -62,7 +62,7 @@ Optimal combinations of portfolios
 
 Teorien bygger på Harry Markowitz moderne portefølje teori som oftest bruges i forbindelse med optimal frontier analyse:
 
-![alt text](https://i.imgur.com/M4t78zf.png)
+![alt text](https://i.imgur.com/M4t78zf.png?1)
 
 # Resultater
 
