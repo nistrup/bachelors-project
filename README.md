@@ -64,6 +64,24 @@ Teorien bygger på Harry Markowitz moderne portefølje teori som oftest bruges i
 
 ![alt text](https://i.imgur.com/M4t78zf.png)
 
+# Resultater
+
+## Sharpe-værdier:
+
+![alt text](https://i.imgur.com/O8YxgcV.png)
+
+## Maxima- og minima-vægtninger:
+
+![alt text](https://i.imgur.com/fRMZ1dz.png)
+
+## Turnover relativt til 1/N:
+
+![alt text](https://i.imgur.com/ZDk9jLC.png)
+
+## Sharpe-værdier fra simuleret data:
+
+![alt text](https://i.imgur.com/bZ7ik9Q.png)
+
 Bachelors 2018, Optimal Portfolio Theory using random portfolio simulations
 
 Af Peter Nistrup og Christoffer Fløe
