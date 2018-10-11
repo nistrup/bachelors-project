@@ -5,6 +5,10 @@ Teorien bygger på Harry Markowitz moderne portefølje teori.
 Skrevet med udgangspunkt i DeMiguel, Garlappi og Uppal's artikkel "Optimal Versus Naive Diversification:
 How Inefficient is the 1/N Portfolio Strategy?" - http://faculty.london.edu/avmiguel/DeMiguel-Garlappi-Uppal-RFS.pdf
 
+## Fremgangsmåde:
+
+![alt text](https://i.imgur.com/30MzHSK.png)
+
 ## Modeller vi har programmeret:
 
 ```
