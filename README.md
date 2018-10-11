@@ -1,5 +1,8 @@
 # Bachelor 2018 - CBS HA(mat.)
 
+Skrevet med udgangspunkt i DeMiguel, Garlappi og Uppal's artikkel "Optimal Versus Naive Diversification:
+How Inefficient is the 1/N Portfolio Strategy?" - http://faculty.london.edu/avmiguel/DeMiguel-Garlappi-Uppal-RFS.pdf
+
 ## Modeller vi har programmeret:
 
 ```
