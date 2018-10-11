@@ -3,7 +3,6 @@
 ## Modeller vi har programmeret:
 
 ```
-
 Naive
   
   1. 1/N with rebalancing (benchmark strategy)                ew or 1/N
@@ -26,13 +25,11 @@ Portfolio constraints
   10. Bayes-Stein with shortsale constraints                  bs-c
   11. Minimum-variance with shortsale constraints             min-c
   12. Minimum-variance with generalized constraints           g-min- c
-
 ```
 
 ## Modeller vi mangler:
 
 ```
-
 Bayesian approach to estimation error
   
   5. Bayesian Data-and- Model                                 dm
@@ -46,13 +43,11 @@ Optimal combinations of portfolios
   
   13. Kan and Zhou’s (2007) “three-fund” model                mv-min
   14. Mixture of minimum-variance and 1/N                     ew-min
-
 ```
 
 ## Data vi har samlet:
 
 ```
-
 #1 - Ten sector portfolios of the S&P 500 and the US equity market portfolio
 #2 - Ten industry portfolios and the US equity market portfolio
 #3 - Eight country indexes and the World Index
@@ -60,7 +55,6 @@ Optimal combinations of portfolios
 #5 - Twenty size- and book-to-market portfolios and the US equity MKT
 #6 - Twenty size- and book-to-market portfolios and the MKT, SMB, and HML portfolios
 #7 - Twenty size- and book-to-market portfolios and the MKT, SMB, HML, and UMD portfolios
-
 ```
 
 Bachelors 2018, Optimal Portfolio Theory using random portfolio simulations
