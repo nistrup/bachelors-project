@@ -68,7 +68,7 @@ Optimal combinations of portfolios
 
 ## Sammenligning med DeMiguel, Garlappi og Uppal's resultater:
 
-![alt text](https://i.imgur.com/gnO3oT3.png)
+<img src="https://i.imgur.com/gnO3oT3.png" width="800">
 
 # Rå resultater
 
