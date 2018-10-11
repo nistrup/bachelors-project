@@ -1,5 +1,6 @@
 # Bachelor 2018 - CBS HA(mat.)
 
+Teorien bygger på Harry Markowitz moderne portefølje teori.
 Skrevet med udgangspunkt i DeMiguel, Garlappi og Uppal's artikkel "Optimal Versus Naive Diversification:
 How Inefficient is the 1/N Portfolio Strategy?" - http://faculty.london.edu/avmiguel/DeMiguel-Garlappi-Uppal-RFS.pdf
 
@@ -60,9 +61,7 @@ Optimal combinations of portfolios
 #7 - Twenty size- and book-to-market portfolios and the MKT, SMB, HML, and UMD portfolios
 ```
 
-### Teorien bygger på Harry Markowitz moderne portefølje teori.
-
-# Sammenligning med DeMiguel, Garlappi og Uppal's resultater:
+## Sammenligning med DeMiguel, Garlappi og Uppal's resultater:
 
 ![alt text](https://i.imgur.com/gnO3oT3.png)
 
